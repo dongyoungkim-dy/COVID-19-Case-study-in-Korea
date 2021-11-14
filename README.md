@@ -1,6 +1,7 @@
 ## COVID-19 Case study in Korea
-<img src="figures/fig7.png" width="400">
-<img src="figures/fig7.png" width="400">
+|Sensitivity|Predicted actual cases|
+|:--:|:--:|
+|<img src="figures/fig6.png" width="400">|<img src="figures/fig7.png" width="400">|
 
 ## Introduction
 Code for this study provided at [https://github.com/paulgstf/misclass-covid-19-testing]
