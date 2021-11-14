@@ -6,8 +6,9 @@
 ## Introduction
 Code for this study provided at [https://github.com/paulgstf/misclass-covid-19-testing]
 #### Contingency table and generative model
-<img src="https://user-images.githubusercontent.com/49227171/141667116-c3e62113-0a01-4fa1-92c9-e1b8c3df6137.JPG" width="500">
-<img src="figures/diagram.JPG" width="300">
+|Contingency table|Generative model|
+|:--:|:--:|
+|<img src="https://user-images.githubusercontent.com/49227171/141667116-c3e62113-0a01-4fa1-92c9-e1b8c3df6137.JPG" width="500">|<img src="figures/diagram.JPG" width="300">|
 
 ## Summary
 * Background: Using Rapid COVID-19 Antigen Test is controversial due to its sensitivity issue within medical society in South Korea. The purpose of this study is to see the impact of poor sensitivity in epidemic curves.
