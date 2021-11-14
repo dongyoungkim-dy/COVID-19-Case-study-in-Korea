@@ -1,3 +1,7 @@
+## COVID-19 Case study in Korea
+<img src="figures/fig7.png" width="400">
+<img src="figures/fig7.png" width="400">
+
 ## Introduction
 Code for this study provided at [https://github.com/paulgstf/misclass-covid-19-testing]
 #### Contingency table and generative model
@@ -9,7 +13,5 @@ Code for this study provided at [https://github.com/paulgstf/misclass-covid-19-t
 * Results: Bayesian analysis about the sensitivity and specificity indicated that the value of specificity is almost 100%, which is expected from clinical performance results from other studies. On the other hand, sensitivity is inferred to be approximately 60%, which is a value in-between clinical RT-PCR performance (95%) and estimated Ag test performance (40%) from studies conducted in South Korea. Through Monte Carlo sensitivity analysis, the impact of these sensitivity values is examined. However, in most cases the number of test positives is underestimated. 
 * Conclusions: The impact of misclassification due to poor sensitivity was worse than anticipated. Special cares have to be taken in using Ag test.
 
-#### Figures
-<img src="figures/fig7.png" width="300">
-<img src="figures/fig7.png" width="300">
+
 
